@@ -6,7 +6,6 @@
   <div class="app">
     Landing
   </div>
-  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
