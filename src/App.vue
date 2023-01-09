@@ -11,7 +11,7 @@
 <style scoped>
   .app {
     display: flex;
-    min-height: 90vh;
+    min-height: 85vh;
     place-items: center;
     text-transform: uppercase;
   }
